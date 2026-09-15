@@ -229,6 +229,7 @@
 | [dsh-search](https://github.com/YUANMINGXUE/dsh-search) | 通过 CDP 驱动本机 Chromium 浏览器，为 DSH 增加 browser_search 与 browser_fetch 工具，无需搜索 API Key 或云端提供方。 | [![GitHub stars](https://img.shields.io/github/stars/YUANMINGXUE/dsh-search?style=flat&label=stars)](https://github.com/YUANMINGXUE/dsh-search/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [dsh-synomega](https://github.com/zbc0315/dsh-synomega) | 增加本地有机化学工具，覆盖逆合成、正向预测、路线规划、SynScore、分子演化与会话内结构可视化。 | [![GitHub stars](https://img.shields.io/github/stars/zbc0315/dsh-synomega?style=flat&label=stars)](https://github.com/zbc0315/dsh-synomega/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [dsh-paper-survey](https://github.com/zeros335882878/dsh-paper-survey) | 打包三项 DSH 技能，用于先解读后总结的论文阅读、经用户确认的文献调研，以及演示文稿生成或修订。 | [![GitHub stars](https://img.shields.io/github/stars/zeros335882878/dsh-paper-survey?style=flat&label=stars)](https://github.com/zeros335882878/dsh-paper-survey/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
+| [dsh-report-studio](https://github.com/ciceroyang/dsh-report-studio) | 把 DSH 会话整理成日报、周报、交接与文章的工具与运行时技能:可核验的 HTML 导出,以及对照原会话复核已存报告的凭据。 | [![GitHub stars](https://img.shields.io/github/stars/ciceroyang/dsh-report-studio?style=flat&label=stars)](https://github.com/ciceroyang/dsh-report-studio/stargazers) | <details><summary>0 pages</summary><sub>No verified references yet.</sub></details> |
 
 ## 会话与存储
 
@@ -853,6 +854,7 @@
 | [dsh-openrouter-monitor](https://github.com/Oliver0804/dsh-openrouter-monitor) | 在 DSH Composer 下方增加 OpenRouter 账户监控，展示余额、逐 Key 消费、告警阈值与趋势图。 | [![GitHub stars](https://img.shields.io/github/stars/Oliver0804/dsh-openrouter-monitor?style=flat&label=stars)](https://github.com/Oliver0804/dsh-openrouter-monitor/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [dsh-darwin](https://github.com/que3sui/dsh-darwin) | 提供双插件 DSH 自进化闭环，挖掘会话问题、门控候选修复并支持确定性回滚。 | [![GitHub stars](https://img.shields.io/github/stars/que3sui/dsh-darwin?style=flat&label=stars)](https://github.com/que3sui/dsh-darwin/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
 | [deepseek-harness-usage](https://github.com/syncended/deepseek-harness-usage) | 从本地会话记录生成 DSH 用量看板，展示 Token、模型估算成本、趋势与活动热力图，并支持价格覆盖。 | [![GitHub stars](https://img.shields.io/github/stars/syncended/deepseek-harness-usage?style=flat&label=stars)](https://github.com/syncended/deepseek-harness-usage/stargazers) | <details><summary>0 个网页</summary><sub>暂无已验证的引用网页。</sub></details> |
+| [dsh-doctor](https://github.com/ciceroyang/dsh-doctor) | 零依赖的 DSH 本地环境离线体检:node/pnpm/dsh、端口、DSH_HOME、profile 清单、会话数量与多帧 zstd 会话日志健康度,输出社区 dsh-doctor/v1 信封。 | [![GitHub stars](https://img.shields.io/github/stars/ciceroyang/dsh-doctor?style=flat&label=stars)](https://github.com/ciceroyang/dsh-doctor/stargazers) | <details><summary>0 pages</summary><sub>No verified references yet.</sub></details> |
 
 ## 贡献
 
